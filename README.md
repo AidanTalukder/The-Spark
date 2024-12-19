@@ -1,4 +1,4 @@
-# The Spark: A Computer Science Pet Project and Dynamic Utility for The First of Latanach: A West Marches Pathfinder 2e TTRPG Campaign
+# The Spark: A Computer Science Pet Project and GM-Made Tool for The First of Latanach: A West Marches Pathfinder 2e TTRPG Campaign
 The Spark is a simple Discord bot with an evolving suite of functionalities. This micro-project began with a simple string randomizer; each player gave me four rumors about their characters that I then randomly shuffled and doled out to the rest of the group. That task evolved into: "What if that process was entirely automated?" / "What if I turned a 15-minute task into a 3 hour one where I learn Discord's developer API for fun?" Thus, The Spark was born.
 
 The Spark aims to offer the following functions:
